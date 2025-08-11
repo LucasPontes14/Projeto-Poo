@@ -1,0 +1,24 @@
+[
+    {
+        "nomeAutor": "Autor",
+        "id": 1,
+        "emailAutor": "lcas@gmail",
+        "livrosAutor": [
+            "Livro Exemplo 2"
+        ]
+    },
+    {
+        "nomeAutor": "Autor 2",
+        "id": 2,
+        "emailAutor": "lcas@gmail",
+        "livrosAutor": [
+            "Livro Exemplo 2"
+        ]
+    },
+    {
+        "nomeAutor": "Autor 3",
+        "id": 3,
+        "emailAutor": "lcas@gmail",
+        "livrosAutor": []
+    }
+]

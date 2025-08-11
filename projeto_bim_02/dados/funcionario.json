@@ -1,0 +1,17 @@
+[
+    {
+        "nomeFuncionario": "Lucas Pontes",
+        "senha": "123456789",
+        "id": 1
+    },
+    {
+        "nomeFuncionario": "Ana Carolina",
+        "senha": "123456789",
+        "id": 2
+    },
+    {
+        "nomeFuncionario": "Angela Fernandes",
+        "senha": "123456789",
+        "id": 3
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "nomeUsuario": "Usuario 7",
+        "senha": "senha456",
+        "estaCadastrado": true,
+        "id": 90
+    },
+    {
+        "nomeUsuario": "Usuario 9",
+        "senha": "senha456",
+        "estaCadastrado": true,
+        "id": 91
+    },
+    {
+        "nomeUsuario": "Usuario 10",
+        "senha": "senha789",
+        "estaCadastrado": true,
+        "id": 92
+    },
+    {
+        "nomeUsuario": "Usuario 73",
+        "senha": "senha789",
+        "estaCadastrado": true,
+        "id": 93
+    }
+]
